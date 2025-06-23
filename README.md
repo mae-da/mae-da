@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=docker,express,firebase,gcp,js,linux,mongodb,mysql,nextjs,nodejs,ps,postgres,prisma,react,redux,ts,vercel,vim&perli
+[![My Skills](https://skillicons.dev/icons?i=docker,express,firebase,gcp,js,linux,mongodb,mysql,nextjs,nodejs,ps,postgres,prisma,react,redux,ts,vercel,vim&perline=9)](https://skillicons.dev)
