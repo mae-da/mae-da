@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 hobby developer.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nextjs,firebase,gcp,vercel,mongodb,postgres,prisma,react,redux,ps,linux,vim&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nextjs,firebase,gcp,vercel,mongodb,postgres,prisma,react,redux,ps,vim,linux&perline=8)](https://skillicons.dev)
