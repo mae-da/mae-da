@@ -1,4 +1,4 @@
-## Hi there 👋
+## aka maeda
 
 <!--
 **mae-da/mae-da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a hobby developer.
 
 [![My Skills](https://skillicons.dev/icons?i=docker,express,firebase,gcp,js,linux,mongodb,mysql,nextjs,nodejs,ps,postgres,prisma,react,redux,ts,vercel,vim&perline=9)](https://skillicons.dev)
