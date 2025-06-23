@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 hobby developer.
 
 [![My Skills](https://skillicons.dev/icons?i=docker,express,firebase,gcp,js,linux,mongodb,mysql,nextjs,nodejs,ps,postgres,prisma,react,redux,ts,vercel,vim&perline=9)](https://skillicons.dev)
+
+![あなたのGitHub統計](https://github-readme-stats.vercel.app/api?username=mae-da&show_icons=true&theme=radical)
